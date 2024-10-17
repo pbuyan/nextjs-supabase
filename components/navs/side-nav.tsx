@@ -30,11 +30,11 @@ export default function SideNav() {
       icon: WalletCards,
       path: "/dashboard/billing",
     },
-    {
-      name: "Settings",
-      icon: Settings,
-      path: "/dashboard/settings",
-    },
+    // {
+    //   name: "Settings",
+    //   icon: Settings,
+    //   path: "/dashboard/settings",
+    // },
   ];
 
   return (
